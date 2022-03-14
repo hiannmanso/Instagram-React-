@@ -10,7 +10,7 @@ export default function Corpo(params) {
                 <Stories/>    
                 <Posts/>
             </div>
-                <SideBar/>
+                <SideBar user='catanacomics' name='Catana' copyright='© 2021 INSTAGRAM DO FACEBOOK' links='  Sobre • Ajuda • Imprensa • API • Carreiras • Privacidade • Termos • Localizações • Contas mais relevantes • Hashtags • Idioma'/>
         </div>
     )
 }
